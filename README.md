@@ -20,3 +20,30 @@ This project utilizes the OpenAI API to perform various tasks, including generat
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Ammar-Abdelhady-ai/Openai-api.git
+
+# YouTube Audio Summarizer
+
+This project includes scripts to download audio from YouTube videos and generate a summary using OpenAI's APIs.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Scripts Overview](#scripts-overview)
+- [API Endpoint](#api-endpoint)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+This project allows you to download audio from YouTube videos, transcribe or translate the audio, and generate a summary using OpenAI's ChatGPT API.
+
+## Setup
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
